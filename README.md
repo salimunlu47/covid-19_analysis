@@ -1,2 +1,2 @@
 # covid-19_analysis
-Analyzing covid-19 data.
+Analyzed covid-19 data from European Centre for Disease Prevention and Control website. Covid-19 Analysis by Continents and Countries. Used Pandas, Numpy, Matplotlib. Bar charts, data frames, pie charts.
